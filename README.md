@@ -2,14 +2,16 @@
 
 I hope to be a better developer than I was yesterday.
 
-🦾 Skills
+⭐️ Skills
 
-Platforms
+📍 Platforms
 
-Languages
+📍 Languages
+
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
-Tools
+📍 Tools
+<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 <!--

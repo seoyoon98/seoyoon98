@@ -1,5 +1,7 @@
 ### 👋 Hi there! I'm a student now studying CS!
 
+I hope to be a better developer than I was yesterday.
+
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 <!--

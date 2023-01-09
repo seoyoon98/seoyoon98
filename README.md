@@ -10,7 +10,7 @@ I hope to be a better developer than I was yesterday.
 <br>
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C&#43;-00599C?style=flat-square&logo=c&#43;&logoColor=white"/>
+<img src="https://img.shields.io/badge/C&#43&#43;;-00599C?style=flat-square&logo=c&#43&#43;;&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>

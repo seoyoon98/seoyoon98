@@ -1,5 +1,5 @@
 <div align="center">
-  ### 👋 Hi there! I'm a student now studying CS!
+  👋 Hi there! I'm a student now studying CS!
 
   I hope to be a better developer than I was yesterday.
 
